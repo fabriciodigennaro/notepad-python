@@ -1,0 +1,6 @@
+GREY = '#263238'
+LIGHT_GREY = '#4f5b62'
+DARK_GREY = '#000a12'
+BLUE = '#0277bd'
+LIGHT_BLUE = '#58a5f0'
+DARK_BLUE = '#004c8c'
